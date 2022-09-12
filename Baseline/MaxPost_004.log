@@ -1,0 +1,100 @@
+Guess using prior distribution.
+
+Guess vector:
+        0.4227963436
+        0.0461985114
+        0.5928114199
+        0.5290221082
+        0.6630008156
+        1.5670130549
+        0.2407344134
+        1.9354032188
+        2.6547988294
+        2.7143446425
+        0.3189184646
+        0.7323015116
+        0.4896377419
+        1.5804100804
+        0.5059241304
+        0.2998207704
+        0.2279469180
+
+Iteration     0: f =        1448.51458472
+Iteration     1: f =         481.71631008, change =        -966.79827464
+Iteration     2: f =         471.24732134, change =         -10.46898874
+Iteration     3: f =         437.19529032, change =         -34.05203102
+Iteration     4: f =         426.37645924, change =         -10.81883108
+Iteration     5: f =         411.06225110, change =         -15.31420814
+Iteration     6: f =         403.91086605, change =          -7.15138504
+Iteration     7: f =         393.21443698, change =         -10.69642907
+Iteration     8: f =         387.04626046, change =          -6.16817652
+Iteration     9: f =         378.74340655, change =          -8.30285391
+Iteration    10: f =         374.98614753, change =          -3.75725901
+Iteration    11: f =         369.64869675, change =          -5.33745079
+Iteration    12: f =         365.34595016, change =          -4.30274659
+Iteration    13: f =         360.27236469, change =          -5.07358548
+Iteration    14: f =         356.89551177, change =          -3.37685291
+Iteration    15: f =         347.54294954, change =          -9.35256223
+Iteration    16: f =         345.95544998, change =          -1.58749957
+Iteration    17: f =         343.15845535, change =          -2.79699463
+Iteration    18: f =         341.70081011, change =          -1.45764524
+Iteration    19: f =         341.09375007, change =          -0.60706004
+Iteration    20: f =         340.48525771, change =          -0.60849235
+Iteration    21: f =         339.92278199, change =          -0.56247572
+Iteration    22: f =         339.53674689, change =          -0.38603510
+Iteration    23: f =         339.31578165, change =          -0.22096524
+Iteration    24: f =         339.14713812, change =          -0.16864353
+Iteration    25: f =         339.08372557, change =          -0.06341254
+Iteration    26: f =         339.05663185, change =          -0.02709372
+Iteration    27: f =         338.99093888, change =          -0.06569297
+Iteration    28: f =         338.88109078, change =          -0.10984811
+Iteration    29: f =         338.67656950, change =          -0.20452128
+Iteration    30: f =         338.49558732, change =          -0.18098218
+Iteration    31: f =         338.19281012, change =          -0.30277720
+Iteration    32: f =         337.97151452, change =          -0.22129560
+Iteration    33: f =         337.67139296, change =          -0.30012155
+Iteration    34: f =         337.53535447, change =          -0.13603849
+Iteration    35: f =         337.49703054, change =          -0.03832393
+Iteration    36: f =         337.46193363, change =          -0.03509691
+Iteration    37: f =         337.43470693, change =          -0.02722670
+Iteration    38: f =         337.37251074, change =          -0.06219619
+Iteration    39: f =         337.22428899, change =          -0.14822175
+Iteration    40: f =         337.09344693, change =          -0.13084206
+Iteration    41: f =         337.04446138, change =          -0.04898555
+Iteration    42: f =         336.99968962, change =          -0.04477176
+Iteration    43: f =         336.98153735, change =          -0.01815227
+Iteration    44: f =         336.97411175, change =          -0.00742560
+Iteration    45: f =         336.97331458, change =          -0.00079717
+Iteration    46: f =         336.97326203, change =          -0.00005255
+Iteration    47: f =         336.97325478, change =          -0.00000725
+Iteration    48: f =         336.97325133, change =          -0.00000345
+Iteration    49: f =         336.97325049, change =          -0.00000084
+Iteration    50: f =         336.97325037, change =          -0.00000012
+Iteration    51: f =         336.97325037, change =          -0.00000000
+improvement < crit termination
+Iteration     0: f =         620.40663665
+Iteration     1: f =         502.03953977, change =        -118.36709688
+Iteration     2: f =         484.87521550, change =         -17.16432427
+Iteration     3: f =         475.39100737, change =          -9.48420813
+Iteration     4: f =         471.16084673, change =          -4.23016064
+Iteration     5: f =         466.79800396, change =          -4.36284276
+Iteration     6: f =         461.60819404, change =          -5.18980993
+Iteration     7: f =         456.36644068, change =          -5.24175335
+Iteration     8: f =         454.10303566, change =          -2.26340503
+Iteration     9: f =         447.46902918, change =          -6.63400648
+Iteration    10: f =         445.19716704, change =          -2.27186214
+Iteration    11: f =         441.38617149, change =          -3.81099555
+Iteration    12: f =         437.25637922, change =          -4.12979227
+Iteration    13: f =         428.52062684, change =          -8.73575238
+Iteration    14: f =         420.32290474, change =          -8.19772211
+Iteration    15: f =         411.79730642, change =          -8.52559831
+Iteration    16: f =         399.66330220, change =         -12.13400422
+Iteration    17: f =         392.38176966, change =          -7.28153254
+Iteration    18: f =         382.97551238, change =          -9.40625729
+Iteration    19: f =         375.23351437, change =          -7.74199801
+Iteration    20: f =         373.04404806, change =          -2.18946631
+Iteration    21: f =         371.58280931, change =          -1.46123875
+Iteration    22: f =         369.90069150, change =          -1.68211781
+Iteration    23: f =         369.36131318, change =          -0.53937831
+Iteration    24: f =         368.74662886, change =          -0.61468433
+Iteration    25: f =         367.82856694, change =          -0.91806192

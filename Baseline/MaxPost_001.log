@@ -1,0 +1,99 @@
+
+Guess vector:
+        1.0000000000
+        0.1000000000
+        0.6000000000
+        0.6000000000
+        0.7000000000
+        1.5000000000
+        0.5000000000
+        2.0000000000
+        2.0000000000
+        3.0000000000
+        0.5000000000
+        0.5000000000
+        0.5000000000
+        0.5000000000
+        0.5000000000
+        0.5000000000
+        0.5000000000
+
+Iteration     0: f =        1795.08485114
+Iteration     1: f =         432.32274446, change =       -1362.76210668
+Iteration     2: f =         428.43672808, change =          -3.88601638
+Iteration     3: f =         397.68433232, change =         -30.75239576
+Iteration     4: f =         393.56840799, change =          -4.11592433
+Iteration     5: f =         384.34150548, change =          -9.22690252
+Iteration     6: f =         376.06294231, change =          -8.27856316
+Iteration     7: f =         368.86115646, change =          -7.20178586
+Iteration     8: f =         366.93282099, change =          -1.92833547
+Iteration     9: f =         364.75102292, change =          -2.18179807
+Iteration    10: f =         359.27603367, change =          -5.47498925
+Iteration    11: f =         353.41147074, change =          -5.86456293
+Iteration    12: f =         348.36851352, change =          -5.04295722
+Iteration    13: f =         345.43165321, change =          -2.93686031
+Iteration    14: f =         343.95414020, change =          -1.47751301
+Iteration    15: f =         342.29300067, change =          -1.66113953
+Iteration    16: f =         340.76678120, change =          -1.52621947
+Iteration    17: f =         339.86729431, change =          -0.89948689
+Iteration    18: f =         339.05823661, change =          -0.80905771
+Iteration    19: f =         338.64744256, change =          -0.41079404
+Iteration    20: f =         338.03840347, change =          -0.60903909
+Iteration    21: f =         337.75358500, change =          -0.28481847
+Iteration    22: f =         337.54315772, change =          -0.21042728
+Iteration    23: f =         337.47029946, change =          -0.07285826
+Iteration    24: f =         337.42570757, change =          -0.04459189
+Iteration    25: f =         337.40429803, change =          -0.02140955
+Iteration    26: f =         337.37192476, change =          -0.03237326
+Iteration    27: f =         337.34290644, change =          -0.02901832
+Iteration    28: f =         337.32301603, change =          -0.01989041
+Iteration    29: f =         337.31174811, change =          -0.01126792
+Iteration    30: f =         337.30074849, change =          -0.01099961
+Iteration    31: f =         337.28866546, change =          -0.01208304
+Iteration    32: f =         337.27968658, change =          -0.00897887
+Iteration    33: f =         337.27150978, change =          -0.00817680
+Iteration    34: f =         337.25702771, change =          -0.01448207
+Iteration    35: f =         337.21962545, change =          -0.03740226
+Iteration    36: f =         337.10595832, change =          -0.11366713
+Iteration    37: f =         336.99001514, change =          -0.11594318
+Iteration    38: f =         336.97545733, change =          -0.01455781
+Iteration    39: f =         336.97350603, change =          -0.00195130
+Iteration    40: f =         336.97327186, change =          -0.00023416
+Iteration    41: f =         336.97325174, change =          -0.00002012
+Iteration    42: f =         336.97325057, change =          -0.00000117
+Iteration    43: f =         336.97325040, change =          -0.00000017
+Iteration    44: f =         336.97325038, change =          -0.00000002
+Iteration    45: f =         336.97325037, change =          -0.00000001
+Cliff.  Perturbing search direction.
+Iteration    46: f =         336.97325037, change =          -0.00000000
+improvement < crit termination
+smallest step still improving too slow
+Iteration     0: f =         506.83737529
+Iteration     1: f =         440.35802945, change =         -66.47934583
+Iteration     2: f =         417.92825863, change =         -22.42977083
+Iteration     3: f =         411.94189216, change =          -5.98636647
+Iteration     4: f =         406.31899068, change =          -5.62290148
+Iteration     5: f =         398.94427319, change =          -7.37471749
+Iteration     6: f =         394.17458947, change =          -4.76968372
+Iteration     7: f =         387.15897653, change =          -7.01561294
+Iteration     8: f =         382.71578815, change =          -4.44318837
+Iteration     9: f =         370.11205951, change =         -12.60372864
+Iteration    10: f =         364.69796987, change =          -5.41408964
+Iteration    11: f =         358.26887428, change =          -6.42909559
+Iteration    12: f =         354.41116343, change =          -3.85771086
+Iteration    13: f =         353.30915710, change =          -1.10200633
+Iteration    14: f =         352.63835078, change =          -0.67080632
+Iteration    15: f =         352.27985245, change =          -0.35849832
+Iteration    16: f =         351.90836861, change =          -0.37148384
+Iteration    17: f =         351.12157978, change =          -0.78678883
+Iteration    18: f =         349.62352723, change =          -1.49805255
+Iteration    19: f =         347.43203503, change =          -2.19149220
+Iteration    20: f =         343.12644894, change =          -4.30558609
+Iteration    21: f =         341.84459260, change =          -1.28185634
+Iteration    22: f =         340.24908799, change =          -1.59550461
+Iteration    23: f =         338.26609989, change =          -1.98298810
+Iteration    24: f =         337.78681258, change =          -0.47928730
+Iteration    25: f =         337.67354955, change =          -0.11326303
+Iteration    26: f =         337.56802368, change =          -0.10552587
+Iteration    27: f =         337.48876769, change =          -0.07925600
+Iteration    28: f =         337.38862385, change =          -0.10014383
